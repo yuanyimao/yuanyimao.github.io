@@ -164,9 +164,9 @@ html::-webkit-scrollbar-thumb:hover {
   background-color: #ddd;
 }
 body {
-  font-size: 11pt;
+  font-size: 10.8pt;
   font-weight: normal;
-  line-height: 2em;
+  line-height: 1.8em;
   background-color: #fff;
   color: #161209;
   transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease, opacity 0.2s ease;
@@ -753,7 +753,7 @@ header label {
   padding-bottom: 0.3em;
 }
 .post-content h1::before {
-  content: "#";
+content
   margin-right: 5px;
   color: #2d96bd;
 }
@@ -761,7 +761,7 @@ header label {
   color: #eee;
 }
 .post-content h2::before {
-  content: "#";
+content
   margin-right: 5px;
   color: #2d96bd;
 }
@@ -769,7 +769,7 @@ header label {
   color: #eee;
 }
 .post-content h3::before {
-  content: "|";
+content
   margin-right: 5px;
   color: #2d96bd;
 }
@@ -777,7 +777,7 @@ header label {
   color: #eee;
 }
 .post-content h4::before {
-  content: "*";
+content
   margin-right: 5px;
   color: #2d96bd;
 }
