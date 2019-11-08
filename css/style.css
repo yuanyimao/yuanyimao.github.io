@@ -149,7 +149,7 @@ template {
   font-weight: 300;
 }
 html {
-  font-family: 'Microsoft Jhenghei', Lantinghei SC, 'lanting', PingFang SC, Seguo UI, Microsoft Yahei, Arial;
+  font-family: "Microsoft Jhenghei", Lantinghei SC, "lanting", PingFang SC, Seguo UI, Microsoft Yahei, Arial;
 }
 html::-webkit-scrollbar {
   width: 8px;
@@ -164,7 +164,7 @@ html::-webkit-scrollbar-thumb:hover {
   background-color: #ddd;
 }
 body {
-  font-size: 10.8pt;
+  font-size: 11pt;
   font-weight: normal;
   line-height: 1.8em;
   background-color: #fff;
