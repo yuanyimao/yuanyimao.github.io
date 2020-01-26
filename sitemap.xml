@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/research-experience/index.html</loc>
+    
+    <lastmod>2020-01-26T13:29:44.759Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/research/index.html</loc>
+    
+    <lastmod>2020-01-26T13:13:24.189Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/08/13/what-is-good-research-question/</loc>
     
     <lastmod>2020-01-18T11:11:48.528Z</lastmod>
@@ -19,13 +33,6 @@
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2019-12-12T07:14:37.731Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/research/index.html</loc>
-    
-    <lastmod>2019-12-12T06:45:39.162Z</lastmod>
     
   </url>
   
