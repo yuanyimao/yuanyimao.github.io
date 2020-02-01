@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-18T11:11:48.528Z</updated>
+  <updated>2020-02-01T13:34:52.029Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,38 @@
     <link href="http://yoursite.com/2019/08/13/what-is-good-research-question/"/>
     <id>http://yoursite.com/2019/08/13/what-is-good-research-question/</id>
     <published>2019-08-13T02:07:33.000Z</published>
-    <updated>2020-01-18T11:11:48.528Z</updated>
+    <updated>2020-02-01T13:34:52.029Z</updated>
+    
+    <content type="html"><![CDATA[<p>this is good</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;this is good&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>what is good research?</title>
+    <link href="http://yoursite.com/2019/08/13/what-is-good-research/"/>
+    <id>http://yoursite.com/2019/08/13/what-is-good-research/</id>
+    <published>2019-08-13T02:07:33.000Z</published>
+    <updated>2020-02-01T13:41:34.127Z</updated>
+    
+    <content type="html"><![CDATA[<p>I am grateful to Ellemers, van der Toorn, Paunov, &amp; van Leeuwen’s (2019) critical and comprehensive review paper. They analyzed a total of 1,278 relevant research articles from 1940 to 2017, which captures the whole picture of the development of psychology of morality. This roadmap helps me reach a deeper insight into the topics of moral reasoning, moral emotion, moral judgment, moral behavior and moral self-views. From my side, I would like to summarize part of the future agenda in the “future direction” section of this paper and contribute my own ideas to this field of area.  </p><p>First, they pointed out that there are not many studies focusing on how people’s moral reasoning or moral judgment affects their moral behaviors. That is to say “we know much less about how this affects their moral behavior (p.354)”.   </p><p>I strongly agree with this statement. I remembered two years before, when I jumped into this field, I found we have accumulated many studies on moral judgment and moral reasoning, but we still knew little about how these impact on people’s moral behaviors. Just as Nilsson, Erlandsson, and Vastfjall (2018) stated in the article:  </p><p>“ <em>Despite these empirical successes, there is still remarkably little research on the applicability of Moral Foundations Theory to real moral behavior. The vast majority of past studies of moral intuitions have relied on self-report measures of moral attitudes and behaviors rather than behavioral data, partly due to a traditional split between the study of moral judgment and the study of moral behavior in the field. This is a crucial drawback</em>.”    </p><p>Fortunately, I found some research tried to examine the relationship between moral thinking and moral behaviors. For example, the leading theory in the field of media and morality, “MIME (Model of Intuitive Morality and Exemplars)” (Tamborini, 2012), emphasized that individual’s exposure to media content depicting moral domains influences people’s the accessibility of moral intuitions, which in turn affect subsequent moral decision making (e.g., selective exposure to liked media content). I feel that if the behavioral outcomes become related to general moral behaviors (e.g., donation, helping, caring, etc.), the model’s generalization and applicability would increase.  Also, Francis et al (2017) investigated participant’s simulated moral actions when faced with moral dilemmas in visually immersive environments (Virtue Reality).  </p><p>At the same time, the authors emphasized that previous research neglected to examine how abstract and<br>general moral principles are translated into guiding specific moral actions.   </p><p>Second, the authors found most of the empirical research relating to morality takes intrapersonal and interpersonal approaches, relatively little studies have addressed the intragroup and intergroup mechanism in the field of morality. For example, how an individual’s shared identities and group-specific moral norms affecting their group-level moral behaviors and moral reasoning have been underexplored.  </p><p>Finally, they asserted that new types of measurement such as implicit indicators or physiological approaches are needed because scholars have over-relied on using self-reported behavioral intention and explicit judgments. This is an interesting statement when people make moral judgements by using self-reported methods, their answers might be influenced by social desirability. To avoid the motivational bias, I found several scholars have tried to address this problem. For example, Tamborini et al (2018) modified affect misattribution procedure (AMP) to develop the moral foundation-AMP to assess participant’s immediate moral intuition change.   </p><h4 id="Reference"><a href="#Reference" class="headerlink" title="Reference:"></a>Reference:</h4><p>Ellemers, N., van der Toorn, J., Paunov, Y., &amp; van Leeuwen, T. (2019). The psychology of morality: A review and analysis of empirical studies published from 1940 through 2017. <em>Personality and Social Psychology Review</em>, <em>23</em>(4), 332-366.  </p><p>Francis, K. B., Terbeck, S., Briazu, R. A., Haines, A., Gummerum, M., Ganis, G., &amp; Howard, I. S. (2017). Simulating moral actions: An investigation of personal force in virtual moral dilemmas. <em>Scientific reports</em>, <em>7</em>(1), 1-11.  </p><p>Nilsson, A., Erlandsson, A., &amp; Vastfjall, D. (2018, June 18). Moral foundations theory and the psychology of charitable giving. osf.  </p><p>Tamborini, R. (2012). A model of intuitive morality and exemplars. In <em>Media and the moral mind</em> (pp. 67-98). Routledge.  </p><p>Tamborini, R., Prabhu, S., Lewis, R. J., Grizzard, M., &amp; Eden, A. (2018). The influence of media exposure on the accessibility of moral intuitions and associated affect. <em>Journal of Media Psychology: Theories, Methods, and Applications</em>, <em>30</em>(2), 79.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I am grateful to Ellemers, van der Toorn, Paunov, &amp;amp; van Leeuwen’s (2019) critical and comprehensive review paper. They analyzed a tot
+      
     
     </summary>
     
